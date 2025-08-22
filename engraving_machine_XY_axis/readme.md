@@ -30,7 +30,7 @@ Lasered parts can be found in folder in this project.
 The engraver can mark text, logos, and simple graphics on wood, plywood, or plastic.  
 The maximum engraving area is approximately 450x400 mm. Accuracy is sufficient for hobby use and small custom projects.  
 
-![Laser Engraver – Finished Build](images/engraving_machine.png)
+![Laser Engraver – Finished Build](images/engraving_machine.PNG)
 ![Laser Engraver – Finished Build](images/engraving_machine_2.png)
 ![Laser Engraver – Finished Build](images/engraving_machine_3.png)
 
